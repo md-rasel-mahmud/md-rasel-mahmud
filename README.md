@@ -1,7 +1,7 @@
 ![Web Designer & Web Developer ](https://raw.githubusercontent.com/myself-rasel-mahmud/my-Portfolio/a25782f6e1fa5be11a6b5660e37281458d3f8640/Images/1655410840918.jpg)
 
 ### Hi there 👋, I am Rasel Mahmud
-#### Web Designer & Web Developer 
+#### Junior MERN stack Web Developer 
 
 
 # 💫 About Me:
