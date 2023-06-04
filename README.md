@@ -1,11 +1,11 @@
-![Web Designer & Web Developer ](https://media.licdn.com/dms/image/D5616AQGmOgLpWeJ7fg/profile-displaybackgroundimage-shrink_350_1400/0/1685732505872?e=1691625600&v=beta&t=Wv2aK4GomEjeAsdFE_BI877BaLCRp0tCw7ThlFTOBMc)
+![Web Designer & Web Developer ](https://raw.githubusercontent.com/myself-rasel-mahmud/my-Portfolio/b72b52b9beea4e43b1859f6b8b3a0718d21948eb/Images/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner%20(2).png)
 
 ### Hi there 👋, I am MD. RASEL MAHMUD
 #### Junior MERN stack Web Developer 
 
 
 # 💫 About Me:
-🌱 I’m currently learning Next Js<br>🤔 I’m looking for help with React Js<br>⚡ Fun fact: Watching Movie
+🌱 I’m currently learning Redux<br>🤔 I’m looking for help with Next Js<br>⚡ Fun fact: Photography
 
 
 ## 🌐 Socials:
