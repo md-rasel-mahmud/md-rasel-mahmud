@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Redux<br>🤔 I’m looking for help with Next Js<br>⚡ Fun fact: Photography
+🌱 I’m currently learning Nest.js<br>🤔 I’m looking for help with React.Js<br>
 
 
 
