@@ -5,10 +5,22 @@
 
 
 # About Me:
-I’m currently learning Nest.js<br> I’m looking for help with React.Js<br>
+I am Md. Rasel Mahmud, a passionate MERN Stack Developer with a good foundation in web development. I currently work as a Front End Developer at Shunno IT. I completed my Diploma in Computer Technology from Moulvibazar Polytechnic Institute, and I am now studying B.Sc in CSE at North Bengal University. I am a quick learner and a team player who always tries to deliver clean and quality work.
 
+## Projects
 
+- [**Agrosys**](https://agrosysbd.com/) — **Production Management System**  
+  Designed for tracking agricultural and production data with detailed production reports.
+  
+- [**Hisabnikash**](https://hisabnikashbd.com/) — **Inventory Management System**  
+  A comprehensive platform to manage stock, sales, purchases, and reporting efficiently.  
 
+- [**Silicon ISP**](https://siliconisp.com/) — **Billing & Customer Management**  
+  A solution for ISPs to manage billing, customer accounts, and payment tracking seamlessly.
+   
+- [**Printing ERP**](https://siliconisp.com/) — **Printing & Press Management**  
+  A comprehensive ERP system for print businesses to manage orders, production, billing, and inventory efficiently.    
+  
 
 # Tech Stack:
 
