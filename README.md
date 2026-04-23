@@ -58,6 +58,30 @@ I am Md. Rasel Mahmud, a passionate MERN Stack Developer with a good foundation 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=md-rasel-mahmud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rasel-mahmud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+## 📊 GitHub Stats
+ 
+<div align="center">
+ 
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=md-rasel-mahmud&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=060b17&title_color=00d4ff&icon_color=00d4ff&text_color=94a3b8&ring_color=7c3aed" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rasel-mahmud&layout=compact&hide_border=true&bg_color=060b17&title_color=00d4ff&text_color=94a3b8&langs_count=8" />
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=md-rasel-mahmud&hide_border=true&background=060b17&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=94a3b8&dates=475569&currStreakNum=e0f2fe&sideNums=e0f2fe&stroke=060b17" />
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rasel-mahmud&bg_color=060b17&color=00d4ff&line=7c3aed&point=e0f2fe&area=true&area_color=0d2040&hide_border=true" width="96%" />
+ 
+</div>
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=md-rasel-mahmud&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
